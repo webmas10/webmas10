@@ -27,7 +27,7 @@ Currently completing **IBM Data Engineering Professional Certificate**.
 
 ## 📌 Featured Projects
 - 🏦 **ETL: World's Largest Banks** → https://github.com/webmas10/etl-banks-pipeline
-- 🌍 **ETL: GDP by Country** → https://github.com/webmas10/etl-gdp-pipeline
+- 🌍 ETL: GDP by Country → https://github.com/webmas10/etl-gdp-pipeline
 - 📊 **User Funnel KPI Dashboard (Power BI)** → (link soon)
 - 💳 **Transaction Analytics Dashboard (Power BI)** → (link soon)
 
