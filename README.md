@@ -28,12 +28,12 @@ Currently completing **IBM Data Engineering Professional Certificate**.
 ## 📌 Featured Projects
 - 🏦 **ETL: World's Largest Banks** → https://github.com/webmas10/etl-banks-pipeline
 - 🌍 ETL: GDP by Country → https://github.com/webmas10/etl-gdp-pipeline
-- 📊 **User Funnel KPI Dashboard (Power BI)** → (link soon)
+- 📊 **KPI User Funnel (Power BI)** → https://github.com/webmas10/kpi-user-funnel
 - 💳 **Transaction Analytics Dashboard (Power BI)** → (link soon)
 
 ---
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/andres-corredor-4b9229169
-- Email: mailto:webmas10@gmail.com
-- Portfolio: (tu web o Notion)
+- Email: webmas10@gmail.com
+- Portfolio: (link soon)
