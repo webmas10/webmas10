@@ -36,4 +36,5 @@ Currently completing **IBM Data Engineering Professional Certificate**.
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/andres-corredor-4b9229169
 - Email: webmas10@gmail.com
-- Portfolio: (link soon)
+- Portfolio: https://adhesive-area-81d.notion.site/3063dce76490808eb4bec0a4518ed7bd
+
